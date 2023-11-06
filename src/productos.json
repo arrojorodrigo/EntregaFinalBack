@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers #1",
+    "description": "Comic de Avengers n1",
+    "code": "marvel-avengers-1",
+    "price": "2000",
+    "status": true,
+    "stock": "50",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Avengers #2",
+    "description": "Comic de Avengers n2",
+    "code": "marvel-avengers-2",
+    "price": "2200",
+    "status": true,
+    "stock": "60",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Avengers #3",
+    "description": "Comic de Avengers n3",
+    "code": "marvel-avengers-3",
+    "price": "2300",
+    "status": true,
+    "stock": "40",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Avengers #4",
+    "description": "Comic de Avengers n4",
+    "code": "marvel-avengers-4",
+    "price": "2400",
+    "status": true,
+    "stock": "35",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Avengers #5",
+    "description": "Comic de Avengers n5",
+    "code": "marvel-avengers-5",
+    "price": "2500",
+    "status": true,
+    "stock": "50",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 6,
+    "title": "Avengers #6",
+    "description": "Comic de Avengers n6",
+    "code": "marvel-avengers-6",
+    "price": "2600",
+    "status": true,
+    "stock": "60",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 7,
+    "title": "Avengers #7",
+    "description": "Comic de Avengers n7",
+    "code": "marvel-avengers-7",
+    "price": "2700",
+    "status": true,
+    "stock": "70",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 8,
+    "title": "Avengers #8",
+    "description": "Comic de Avengers n8",
+    "code": "marvel-avengers-8",
+    "price": "2800",
+    "status": true,
+    "stock": "80",
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 9,
+    "title": "X-men #1",
+    "description": "Comic de los X-men",
+    "code": "marvel-xmen-1",
+    "price": 3000,
+    "status": true,
+    "stock": 4,
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 10,
+    "title": "X-men #2",
+    "description": "Comic de los X-men",
+    "code": "marvel-xmen-2",
+    "price": 3100,
+    "status": true,
+    "stock": 5,
+    "category": "comics",
+    "thumbnails": []
+  },
+  {
+    "id": 11,
+    "title": "X-men #3",
+    "description": "Comic de los X-men",
+    "code": "marvel-xmen-3",
+    "price": 3200,
+    "status": true,
+    "stock": 10,
+    "category": "comics",
+    "thumbnails": []
+  }
+]
